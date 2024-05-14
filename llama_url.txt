@@ -1,0 +1,14 @@
+-llama_project
+https://drive.google.com/file/d/1HIb90tgDbnx_lq2uu0eQBB7fJaciLXfy/view?usp=drive_link
+
+-LM-studio
+https://drive.google.com/file/d/1zT2vWretaKBDT-f5gOnF2Yo_fKnkI40c/view?usp=drive_link
+
+-llama model
+https://drive.google.com/file/d/1mcBwpZdOr5tNNdls5P6aMilerGfaPfOA/view?usp=drive_link
+
+-llama model
+https://drive.google.com/file/d/1qwdrqMdXaXdvhOTdruh4hnv0eXapeCd6/view?usp=drive_link
+
+-cuda toolkit
+https://drive.google.com/file/d/1XocBzGZPpsndEY_280dS2bo3_UmMTUDW/view?usp=drive_link
